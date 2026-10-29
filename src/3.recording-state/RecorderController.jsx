@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import React, { useState, useCallback } from "react";
 import { useFiveEventCallback, useFiveState } from "@realsee/five/react";
 import Button from "@mui/material/Button";

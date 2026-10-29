@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import React, { useState, useEffect } from "react";
 import { useFiveCurrentState } from "@realsee/five/react";
 import IconButton from "@mui/material/IconButton";

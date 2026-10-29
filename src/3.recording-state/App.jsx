@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import React from "react";
 import { createFiveProvider, FiveCanvas } from "@realsee/five/react";
 import { useFetchWork } from "./useFetchWork";
